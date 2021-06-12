@@ -2,7 +2,7 @@ package prep;
 
 import java.util.Scanner;
 
-public class Quiz1924 {
+public class 1924_PJH {
 
 	public static void main(String[] args) {
 		

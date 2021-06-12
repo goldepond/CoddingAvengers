@@ -3,7 +3,7 @@ package group_study;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class 2501_PJH {
 		
 		public static void main(String[] args) {
 			Scanner scan = new Scanner(System.in);
