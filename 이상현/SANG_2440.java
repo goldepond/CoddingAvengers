@@ -1,6 +1,8 @@
+package backjoon;
+
 import java.util.Scanner;
 
-public class test2440 {
+public class SANG_2440 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
