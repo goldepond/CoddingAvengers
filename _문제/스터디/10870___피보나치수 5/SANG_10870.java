@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class test_피보나치 {
+public class SANG_10870 {
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
