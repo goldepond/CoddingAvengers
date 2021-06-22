@@ -2,7 +2,7 @@ package prep;
 
 import java.util.Scanner;
 
-public class 1924_PJH {
+public class PJH_1924 {
 
 	public static void main(String[] args) {
 		

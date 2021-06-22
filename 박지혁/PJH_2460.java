@@ -3,7 +3,7 @@ package group_study;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class 2460_PJH {
+public class PJH_2460 {
 	
 	/* 문제:
 	 * 최근에 개발된 지능형 기차가 1번역(출발역)부터 10번역(종창역)까지 10개의 정차역이 있는 노선에서 운행되고 있다.

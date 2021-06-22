@@ -3,7 +3,7 @@ package group_study;
 //공부 하면서 찾은 풀이 입니다ㅎㅎ 
 import java.util.Scanner;
 
-public class 3460_PJH {
+public class PJH_3460 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		

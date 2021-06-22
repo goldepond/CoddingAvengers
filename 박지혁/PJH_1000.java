@@ -2,7 +2,7 @@ package prep;
 
 import java.util.Scanner;
 
-public class 1000_PJH {
+public class PJH_1000 {
 	
 	public static void main(String[] args) {
 		

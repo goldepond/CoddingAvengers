@@ -3,7 +3,7 @@ package prep;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class 10818_PJH {
+public class PJH_10818 {
 	/* 문제:
 	 * N개의 정수가 주어진다. 이때, 최솟값과 최댓값을 구하는 프로그램을 작성하시오.
 	 * 첫째 줄에 정수의 개수 N이 주어진다. 둘째 줄에는 N개의 정수를 공백으로 구분해서 주어진다.

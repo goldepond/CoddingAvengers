@@ -2,7 +2,7 @@ package prep;
 
 import java.util.Scanner;
 
-public class 2438_PJH {
+public class PJH_2438 {
 	
 	/* 문제:
 	 * 첫째 줄에는 별 1 개, 둘째 줄에는 별 2개, N번째 줄에는 별 N개를 찍는 프로그램을 작성하시오.
